@@ -1,3 +1,0 @@
-Python 3.6 or higher
-Hugging Face Transformers library
-Gradio library
